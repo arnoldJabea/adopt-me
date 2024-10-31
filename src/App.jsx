@@ -1,14 +1,17 @@
-
 import { createRoot } from "react-dom/client";
-import Pet from "./pet.jsx";
+// eslint-disable-next-line import/no-unresolved
+import SearchParams from "./SearchParams";
 
-const App = () => {
-    <div>
-        <h1>Adopt me!</h1>
-        <Pet animal="Dog" name="Max" breed="Golden Retriever"/>
-        <Pet animal="Cat" name="Poppy" breed="German Shepherd"/>
-        <Pet animal="Bird" name="Winnie" breed="Golden Eagle"/>
-    </div>
+
+
+function App() {
+  return(
+  <div>
+    <h1>Adopt me!</h1>
+    <SearchParams />
+
+  </div>
+  );
 };
 const container = document.getElementById("root");
 const root =createRoot(container);
