@@ -1,5 +1,3 @@
-Sure! Here’s a README file for your React application that allows users to adopt animals:
-
 Animal Adoption App
 
 A React application that enables users to search for animals available for adoption and view their detailed descriptions.
