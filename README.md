@@ -17,7 +17,7 @@ The Animal Adoption App is designed for anyone looking to adopt a pet. Users can
 
 Features
 
-	•	Search Functionality: Find animals by species, breed, age, or name.
+	•	Search Functionality: Find animals by species, breed, location, or name.
 	•	Detailed Descriptions: View information about each animal, including their history, temperament, and needs.
 	•	Responsive Design: Optimized for both desktop and mobile devices.
 	•	Easy Navigation: User-friendly interface with intuitive navigation.
