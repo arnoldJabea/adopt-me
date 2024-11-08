@@ -28,7 +28,7 @@ To run this application locally, you’ll need Node.js and npm installed on your
 
 	1.	Clone the repository:
 
-git clone https://github.com/your-username/animal-adoption-app.git
+git clone https://github.com/arnoldJabea/adopt-me.git
 
 
 	2.	Navigate to the project directory:
@@ -48,7 +48,7 @@ Start the development server with the following command:
 
 npm start
 
-Open your browser and visit http://localhost:3000 to view the application.
+Open your browser and visit http://localhost:5173 to view the application.
 
 Contributing
 
